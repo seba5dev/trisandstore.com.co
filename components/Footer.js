@@ -10,12 +10,8 @@ export default function Footer() {
       </div>
       <div>
         <div className="grid grid-flow-col gap-4">
-          <a href="https://www.facebook.com/#/" rel="noopener noreferrer">
-            <FaFacebook className="text-3xl" />
-          </a>
-          <a href="https://www.instagram.com/#" rel="noopener noreferrer">
-            <FaInstagram className="text-3xl" />
-          </a>
+          <a href="https://www.facebook.com/#/" rel="noopener noreferrer"></a>
+          <a href="https://www.instagram.com/#" rel="noopener noreferrer"></a>
         </div>
       </div>
     </footer>
