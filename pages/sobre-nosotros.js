@@ -16,7 +16,7 @@ export default function Contactenos() {
   };
   const { isLoaded } = useJsApiLoader({
     id: "google-map-script",
-    googleMapsApiKey: "AIzaSyDkmY-nnx6wEmLIG-3XWDjjx5ul7qsS26M",
+    googleMapsApiKey: "#####",
   });
   const [map, setMap] = useState(null);
 
